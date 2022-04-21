@@ -1,0 +1,13 @@
+.clickleft, .clickright {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.clickleft {
+    background-color: black;
+    color: white;
+}
+
+.clickright {
+    background-color: yellow;
+}
